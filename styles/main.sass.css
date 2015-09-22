@@ -1,0 +1,29 @@
+body {
+  margin: 0; }
+
+section {
+  background-color: black;
+  height: 50em; }
+
+.center {
+  width: 50%;
+  margin: 0 auto;
+  height: 100%;
+  border: solid green 1px;
+  border-top: none; }
+
+img {
+  width: 100%;
+  text-align: center; }
+
+a {
+  margin: 0 auto; }
+
+.text {
+  color: green;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  text-decoration: none; }
+
+.menuImg {
+  height: 78%; }
